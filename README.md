@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning C++ with Unreal Engine.
 - 💞️ I’m looking to collaborate on 2D platformer games.
 - 📫 How to reach me: Instagram - @uncanny.pronk
-                      Email - uncannypronkofficial@gmail.com
+                      Email - janardan.ram.sri@gmail.com
 
 Keep working hard! :)
