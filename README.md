@@ -33,8 +33,6 @@ I'm a Cybersecurity student/enthusiast and a dedicated coder with a focus on Pyt
 👥 **Followers:** 2
 👤 **Following:** 1
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UncannyPronk&show_icons=true&theme=radical)
-
 ## Recent Activity
 
 Here are some of my latest activities on GitHub:
