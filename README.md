@@ -13,7 +13,7 @@ I'm **Janaardhan Ram A S**, a passionate Python coder and game developer. I love
 
 ## About Me
 
-I'm a dedicated coder with a focus on Python and game development. With 11 public repositories on GitHub, I enjoy working on various projects that challenge my skills and expand my knowledge. Currently, I am based online and open to collaboration opportunities!
+I'm a Cybersecurity student/enthusiast and a dedicated coder with a focus on Python and game development. With 11 public repositories on GitHub, I enjoy working on various projects that challenge my skills and expand my knowledge. Currently, I am based online and open to collaboration opportunities!
 
 ## Skills & Technologies
 
