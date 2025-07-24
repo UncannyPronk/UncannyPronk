@@ -57,3 +57,4 @@ You can check out my latest thoughts and tutorials on my blog: [Gamedev Blog](ht
 ## Connect with Me
 
 Send me an email at: janardan.ram.sri@proton.me
+Contact me on LinkedIn: https://www.linkedin.com/in/janardan-ram-srivathsan
