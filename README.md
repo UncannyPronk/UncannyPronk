@@ -17,6 +17,8 @@ I'm a Cybersecurity student/enthusiast and a dedicated coder with a focus on Pyt
 
 ## Skills & Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=django,flask,html,css,git,github,unity,aws,docker,mysql,postgres,visualstudio,linux&perline=8)](https://skillicons.dev)
+
 [+] Python
 [+] Dart
 [+] Flutter
@@ -69,5 +71,5 @@ You can check out my latest thoughts and tutorials on my blog: [Gamedev Blog](ht
 
 ## Connect with Me
 
-Send me an email at: janardan.ram.sri@proton.me
+Send me an email at: janardan.ram.sri@proton.me (or)
 Contact me on LinkedIn: https://www.linkedin.com/in/janardan-ram-srivathsan
