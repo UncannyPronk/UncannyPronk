@@ -17,22 +17,7 @@ I'm a Cybersecurity student/enthusiast and a dedicated coder with a focus on Pyt
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,docker,mysql,linux,py,androidstudio,flutter,dart,bash,js,react,nodejs,c,cpp&perline=8)](https://skillicons.dev)
-
-[+] Python
-[+] Dart
-[+] Flutter
-[+] C
-[+] C++
-[+] HTML
-[+] CSS
-[+] JS
-
-[#] Git
-[#] Github
-[#] Docker
-[#] MySQL/MariaDB
-[#] Linux/bash
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,docker,mysql,linux,py,androidstudio,flutter,dart,bash,js,react,nodejs,c,cpp,neovim,postman,obsidian&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
