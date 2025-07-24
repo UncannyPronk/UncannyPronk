@@ -17,7 +17,7 @@ I'm a dedicated coder with a focus on Python and game development. With 11 publi
 
 ## Skills & Technologies
 
-django,flask,html,css,git,github,unity,aws,docker,mysql,postgres,visualstudio,linux
+[django,flask,html,css,git,github,unity,aws,docker,mysql,postgres,visualstudio,linux](https://skillicons.dev/icons?i=django,flask,html,css,git,github,unity,aws,docker,mysql,postgres,visualstudio,linux&per)
 
 ## Top Projects
 
